@@ -41,6 +41,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/plexo.io"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="plexo.io" /></a></p><br><br>
 
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=plexoio&show_icons=true&locale=en&layout=compact" alt="plexoio" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plexoio&show_icons=true&locale=en" alt="plexoio" /></p>
