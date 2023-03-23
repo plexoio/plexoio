@@ -1,11 +1,10 @@
 [![MasterHead](https://nft.plexo.io/bannergithub.png)](https://plexo.io)
 <h1 align="center">Hi 👋, I'm Frank Arellano</h1>
 <h3 align="center">A passionate software developer and engineering student</h3>
-<img align="right" alt="coding" src="https://nft.plexo.io/github.gif" width="200">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=plexoio&label=Profile%20views&color=0e75b6&style=flat" alt="plexoio" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=plexoio&label=Profile%20views&color=0e75b6&style=flat" alt="plexoio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plexoio" alt="plexoio" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plexoio" alt="plexoio" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/plexoio" target="blank"><img src="https://img.shields.io/twitter/follow/plexoio?logo=twitter&style=for-the-badge" alt="plexoio" /></a> </p>
 
@@ -13,20 +12,20 @@
 
 - 🌱 I’m currently learning **Full Stack Software Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/plexoio?tab=projects](https://github.com/plexoio?tab=projects)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/plexoio?tab=projects)
 
-- 📝 I regularly write articles on [https://post.plexo.io/](https://post.plexo.io/)
+- 📝 I regularly write articles on [Plexo Post](https://post.plexo.io/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Python, Hosting, Clouldflare, Web3**
 
 - 📫 How to reach me **frankarellano13@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arellanofrank](https://www.linkedin.com/in/arellanofrank)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/arellanofrank)
 
 - ⚡ Fun fact **I just know that I know nothing**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://twitter.com/plexoio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plexoio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arellanofrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arellanofrank" height="30" width="40" /></a>
 <a href="https://fb.com/plexo.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="plexo.io" height="30" width="40" /></a>
@@ -42,6 +41,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/plexo.io"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="plexo.io" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plexoio&show_icons=true&locale=en&layout=compact" alt="plexoio" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=plexoio&show_icons=true&locale=en&layout=compact" alt="plexoio" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plexoio&show_icons=true&locale=en" alt="plexoio" /></p>
