@@ -1,6 +1,6 @@
 [![MasterHead](https://nft.plexo.io/bannergithub.png)](https://plexo.io)
 <h1 align="center">Hi 👋, I'm Frank Arellano</h1>
-<h3 align="center">A passionate software developer and engineering student</h3>
+<h3 align="center">A software developer student</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=plexoio&label=Profile%20views&color=0e75b6&style=flat" alt="plexoio" /> </p>
 
