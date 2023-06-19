@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/arellanofrank)
 
-- ⚡ Fun fact **I just know that I know nothing**
+- ⚡ Fun fact **I ask a lot, because I just know that I know nothing** and we all know what nothing means.
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
