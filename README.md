@@ -1,6 +1,6 @@
 [![MasterHead](https://nft.plexo.io/bannergithub.png)](https://plexo.io)
-<h1 align="center">Hi 👋, I'm Frank Arellano</h1>
-<h3 align="center">A software developer student</h3>
+<h1 align="center">Hi 👋, I'm Frank Reinaldo Arellano Andrade</h1>
+<h3 align="center">A passionate software developer and dedicated learner</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=plexoio&label=Profile%20views&color=0e75b6&style=flat" alt="plexoio" /> </p>
 
@@ -8,21 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/plexoio" target="blank"><img src="https://img.shields.io/twitter/follow/plexoio?logo=twitter&style=for-the-badge" alt="plexoio" /></a> </p>
 
-- 🔭 I’m currently working on [Code Institute Course](https://github.com/users/plexoio/projects/4)
-
-- 🌱 I’m currently learning **Full Stack Software Development**
-
+- 🔭 I'm a Full Stack Software Development student from Code Institute, working on advanced techniques like Agile development, software testing, and continuous integration.  
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/plexoio?tab=projects)
-
-- 📝 I regularly write articles on [Plexo Post](https://post.plexo.io/)
-
-- 💬 Ask me about **HTML, CSS, Javascript, Python, Hosting, Clouldflare, Web3**
-
+- 📝 I regularly write articles on [Plexo Post](https://post.plexo.io/) or [Medium](https://medium.com/@frankarellano)
+- 💬 Ask me about **HTML, CSS, Javascript, Python & Blockchain**
 - 📫 How to reach me **frankarellano13@gmail.com**
-
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/arellanofrank)
-
-- ⚡ Fun fact **I ask a lot, because I just know that I know nothing** and we all know what nothing means.
+- ⚡ Fun fact **I ask a lot because I just know that I know nothing**.
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
