@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/plexoio" target="blank"><img src="https://img.shields.io/twitter/follow/plexoio?logo=twitter&style=for-the-badge" alt="plexoio" /></a> </p>
 
-- 🔭 I'm a Full Stack Software Development student from Code Institute, working on advanced techniques like Agile development, software testing, and continuous integration.  
+- 🔭 I'm a Full Stack Software Developer working with advanced techniques like Agile development, software testing, and continuous integration.  
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/plexoio?tab=projects)
-- 📝 I regularly write articles on [Plexo Post](https://post.plexo.io/) or [Medium](https://medium.com/@frankarellano)
+- 📝 I regularly write articles on [Medium](https://medium.com/@frankarellano)
 - 💬 Ask me about **HTML, CSS, Javascript, Python & Blockchain**
 - 📫 How to reach me **frankarellano13@gmail.com**
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/arellanofrank)
-- ⚡ Fun fact **I ask a lot because I just know that I know nothing**.
+- ⚡ Fun fact **I ask a lot**.
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
