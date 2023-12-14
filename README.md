@@ -1,4 +1,3 @@
-[![MasterHead](https://nft.plexo.io/bannergithub.png)](https://plexo.io)
 <h1 align="center">Hi 👋, I'm Frank Reinaldo Arellano Andrade</h1>
 <h3 align="center">A passionate software developer and dedicated learner</h3>
 
